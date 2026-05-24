@@ -69,18 +69,6 @@ Senior Frontend Engineer focused on Angular ecosystem and scalable web applicati
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=flush36&show_icons=true&theme=transparent" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flush36&layout=compact&theme=transparent" />
-
-</div>
-
----
-
 ## 📫 Contact
 
 <p align="left">
