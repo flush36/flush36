@@ -60,6 +60,7 @@ Senior Frontend Engineer focused on Angular ecosystem and scalable web applicati
 - Java
 - Spring Boot
 - Spring Security
+- Lombok
 - REST APIs
 - JPA / Hibernate
 - Quarkus
