@@ -27,7 +27,7 @@ Senior Frontend Engineer focused on Angular ecosystem and scalable web applicati
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql" />
 </p>
 
 ### DevOps & Tools
