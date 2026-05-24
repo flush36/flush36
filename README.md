@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Thiago Teófilo</h1>
+<h1 align="center">Welcome 👋</h1>
+<h3 align="center">I'm Thiago Teófilo</h3>
 <h3 align="center">
 Senior Frontend Engineer focused on Angular ecosystem and scalable web applications
 </h3>
